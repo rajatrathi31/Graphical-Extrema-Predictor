@@ -25,7 +25,7 @@ Mutate Probability = 0.15.
 
 1. Download & Install Node.js
 2. Clone or download Git repository
-3. `cd ./Genetic-Algo-For-Global-Maxima-Minima`
+3. `cd ./Graphical-Extrema-Predictor`
 4. `npm install`
 5. `npm start`
 6. In Browser Open `localhost:3000`
